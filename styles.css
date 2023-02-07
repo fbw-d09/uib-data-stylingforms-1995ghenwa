@@ -1,0 +1,56 @@
+body {
+  /* border: 2px solid white; */
+  background-image: url(./images/background.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  text-align: center;
+ }
+
+ .article1 {
+  background-color: rgba(255, 255, 255, 0.834);
+  border: 6px solid black;
+  text-align: center;
+  width: 40%;
+  margin-left: 30%;
+ }
+
+ .article2 {
+  background-color:rgba(255, 255, 255, 0.834) ;
+  width: 40%;
+  text-align: center;
+  margin-left: 30%;
+  margin-top: 2%;
+ }
+
+ label {
+  background-color: rgb(90, 89, 89);
+  color: aliceblue;
+  padding-right: 100px;
+ }
+ input{
+  padding-right: 56px;
+ }
+ #nameinput {
+  padding-right: 52px;
+ }
+
+ #date {
+  padding-right: 52px;
+ }
+ #date1 {
+  padding-right:  80px;
+ }
+ #send {
+  background-color: rgb(90, 89, 89);
+  color: aliceblue;
+  width: 35%;
+  height: 30px;
+  margin-top: -20px;
+  margin-bottom: 10px;
+ }
+
+ footer {
+  margin-top: 10px;
+  color: grey;
+ }
